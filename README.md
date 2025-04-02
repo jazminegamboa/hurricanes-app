@@ -20,7 +20,7 @@ library(shiny)
 # Run an app from a subdirectory in the repo
 
 runGitHub(
-  repo = "hurricanes-app"
-  useername = "jazmmiine")
+  repo = "hurricanes-app",
+  username = "jazmmiine")
   
 ```
