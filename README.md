@@ -1,11 +1,15 @@
 # Storms in the North Atlantic Shiny App
 
 
-
 ![](hurricane-sc.png)
 
 
-This repository contains a shiny app to visualize the trajectories of tropical cyclones (hurricanes) in the North Atlantic. 
+This repository contains a shiny app to visualize the trajectories of 
+tropical cyclones (hurricanes) in the North Atlantic. The user can type in a given year, 
+then select from four boxes to make additional changes. The first box facets the data into 
+separate maps for each month. The second box takes into account the wind speeds and thickens 
+the points. The third box only displays hurricanes that were considered major hurricanes, 
+and the final box turns the background blue. 
 
 
 ## Storms Data Set
@@ -29,3 +33,9 @@ runGitHub(
   username = "jazmmiine")
   
 ```
+
+## Author 
+
+Jazmine Gamboa 
+
+[jazmine-gamboa.quarto.pub](https://jazmine-gamboa.quarto.pub)
