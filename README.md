@@ -1,5 +1,10 @@
 # Storms in the North Atlantic Shiny App
 
+
+
+![](hurricane-sc.png)
+
+
 This repository contains a shiny app to visualize the trajectories of tropical cyclones (hurricanes) in the North Atlantic. 
 
 
