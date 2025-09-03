@@ -30,7 +30,7 @@ library(shiny)
 
 runGitHub(
   repo = "hurricanes-app",
-  username = "jazmmiine")
+  username = "jazminegamboa")
   
 ```
 
